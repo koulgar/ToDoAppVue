@@ -1,0 +1,10 @@
+@import './_variables.scss';
+
+body {
+  font-family: Roboto-Regular, sans-serif;
+  font-size: $base-font-size;
+  color: $base-font-color;
+  font-weight: $base-font-weight;
+  line-height: $base-line-height;
+  text-align: left;
+}
