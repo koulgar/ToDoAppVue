@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard">
-    <h1>TEST</h1>
+    <v-text-field outlined label="Enter Note" prepend-inner-icon="mdi-map-marker"></v-text-field>
   </div>
 </template>
 <script>
